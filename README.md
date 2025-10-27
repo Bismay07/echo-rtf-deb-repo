@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bismay07/echo-rtf-deb-repo/main/Github%20Repo%20Banner.png" alt="RTF Banner" width="90%" />
+  <img src="https://raw.githubusercontent.com/Bismay07/echo-rtf-deb-repo/main/GithubRepoBanner.png" alt="RTF Banner" width="90%" />
 </p>
+
 
 # 🕵️ RTF — Retrieve The Flag™ Challenge System
 
