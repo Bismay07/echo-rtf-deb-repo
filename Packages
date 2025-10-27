@@ -1,0 +1,13 @@
+Package: echo-rtf-1
+Version: 1.0
+Architecture: all
+Maintainer: Bismay Bibhu Prakash
+Filename: pool/echo-rtf-1-hidden-flag.deb
+Size: 1564
+MD5sum: 23e4d789ba6e76b8a6dc38e1d0caf543
+SHA1: 11ee1ed62dceb86f78a2176f22481efd40502e47
+SHA256: 8fad5acfa6cc4b9f950831ca94d92b82a782df1944c6eb4b08ec7c8e4dc479de
+Section: hacking
+Priority: optional
+Description: RTF-1: Hidden flag challenge for filesystem navigation
+
