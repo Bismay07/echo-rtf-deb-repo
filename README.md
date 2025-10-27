@@ -20,9 +20,16 @@
 
 This repository serves as an **APT-style `.deb` package feed**. That means students can install challenges just like any other Linux software:
 
+## Follow up to participate in the RTF
+
 ```bash
 echo "deb [trusted=yes] https://bismay07.github.io/echo-rtf-deb-repo/ ./" | sudo tee /etc/apt/sources.list.d/rtf.list
 sudo apt update
-sudo apt install echo-rtf-1-hidden-flag
+sudo apt install echo-rtf-1
+```
+
+## Runt this command after completing the RTF to remove the challenge
+```
+sudo apt purge echo-rtf-1
 ```
 
